@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Time;
+package deeksha;
 import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
 import javax.swing.JOptionPane;
-import Time.timetable3;
+import deeksha.timetable4;
 /**
  *
  * @author Mithil Menon
@@ -234,7 +234,7 @@ public class timetable2 extends javax.swing.JFrame {
         com2.setText(null);
          systemExit();
         
-        timetable3 Info = new timetable3();
+        timetable4 Info = new timetable4();
         Info.setVisible(true);
         
         }

@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Time;
+package deeksha;
  import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
 import javax.swing.JOptionPane;
-import Time.timetable2;
+import deeksha.timetable2;
 
 /**
  *
